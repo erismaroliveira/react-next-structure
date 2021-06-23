@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "react-next-structure",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,11 +10,28 @@
   },
   "dependencies": {
     "next": "11.0.1",
+    "next-images": "^1.8.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "styled-components": "^5.3.0"
   },
   "devDependencies": {
-    "eslint": "7.29.0",
-    "eslint-config-next": "11.0.1"
+    "@types/node": "^15.12.4",
+    "@types/react": "^17.0.11",
+    "@types/styled-components": "^5.1.10",
+    "@typescript-eslint/eslint-plugin": "^4.28.0",
+    "@typescript-eslint/parser": "^4.28.0",
+    "babel-plugin-inline-react-svg": "^2.0.1",
+    "eslint": "^7.29.0",
+    "eslint-config-next": "11.0.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-react": "^7.24.0",
+    "prettier": "^2.3.1",
+    "typescript": "^4.3.4"
   }
 }
